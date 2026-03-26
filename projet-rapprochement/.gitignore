@@ -1,0 +1,10 @@
+# Environnement virtuel
+venv/
+.venv/
+__pycache__/
+
+# Données (On ne partage pas les données confidentielles !)
+data/
+
+# Sorties (On ne partage pas les résultats, seulement le code)
+output/
