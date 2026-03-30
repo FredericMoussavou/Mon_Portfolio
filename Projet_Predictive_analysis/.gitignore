@@ -1,0 +1,20 @@
+# Environnement virtuel
+.venv/
+env/
+venv/
+ENV/
+
+# Caches Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches Streamlit
+.streamlit/
+
+# Données
+data/*.csv
+
+# Système
+.DS_Store
+Thumbs.db

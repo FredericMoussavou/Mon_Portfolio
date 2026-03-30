@@ -1,0 +1,2 @@
+class DossierVideError(Exception):
+    pass
