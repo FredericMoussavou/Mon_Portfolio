@@ -1,0 +1,2 @@
+class FichierVideError(Exception):
+    pass
