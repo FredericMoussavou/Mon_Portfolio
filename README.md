@@ -44,5 +44,5 @@ Formation Python Data Analyse — pandas, numpy, openpyxl.
 
 ## Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Frédéric%20Moussavou-blue)](https://www.linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Frédéric%20Moussavou-blue)](https://www.linkedin.com/in/frédéricmsv/)
 [![GitHub](https://img.shields.io/badge/GitHub-FredericMoussavou-black)](https://github.com/FredericMoussavou)
